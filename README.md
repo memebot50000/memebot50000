@@ -1,0 +1,3 @@
+- Hello, I’m @memebot50000
+- My intrests include but are not limited to engineering, mathematics, and remote control vehicles.
+- I’m currently learning physics and Java.
